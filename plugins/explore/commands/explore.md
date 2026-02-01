@@ -1,9 +1,8 @@
 ---
-description: Helps Claude read a planning document and explore related files to get familiar with a topic. Asking Claude to prepare to discuss seems to work better than asking it to prepare to do specific work.
-
-This is followed by Plan, then Execute.
+name: explore
+description: Helps Claude read planning documents and explore related files to get familiar with a topic. Asking Claude to prepare to discuss works better than asking it to prepare to do specific work. Part of the Explore → Plan → Execute workflow.
 author: Galen Ward
-version: 1.0.0
+version: 1.0.1
 ---
 
 $ARGUMENTS

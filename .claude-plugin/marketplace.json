@@ -223,15 +223,19 @@
     {
       "name": "explore",
       "source": "./plugins/explore",
-      "description": "Helps Claude read a planning document and explore related files to get familiar with a topic. Asking Claude to prepare to discuss seems to work better than asking it to prepare to do specific work.\n\nThis is followed by Plan, then Execute.",
-      "version": "1.0.0",
+      "description": "Helps Claude read planning documents and explore related files to get familiar with a topic. Part of the Explore → Plan → Execute workflow.",
+      "version": "1.0.1",
       "author": {
         "name": "Galen Ward"
       },
       "category": "Project & Product Management",
       "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/explore",
       "keywords": [
-        "explore"
+        "explore",
+        "planning",
+        "codebase",
+        "review",
+        "familiarization"
       ]
     },
     {
